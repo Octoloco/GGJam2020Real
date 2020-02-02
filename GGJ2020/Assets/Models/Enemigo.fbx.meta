@@ -1,0 +1,300 @@
+fileFormatVersion: 2
+guid: fd7bf5267e1ba1b43a16167f3da83b74
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: AntebrazoDer
+    100002: AntebrazoIzq
+    100004: Base
+    100006: BrazoDer
+    100008: BrazoIzq
+    100010: Cabeza
+    100012: Cabeza_end
+    100014: Cadera
+    100016: //RootNode
+    100018: Enemigo
+    100020: EnemigoRig
+    100022: GarraInfDer
+    100024: GarraInfDer_end
+    100026: GarraInfIzq
+    100028: GarraInfIzq_end
+    100030: GarraSupDer
+    100032: GarraSupDer_end
+    100034: GarraSupIzq
+    100036: GarraSupIzq_end
+    100038: IK CodoDer
+    100040: IK CodoDer_end
+    100042: IK CodoIzq
+    100044: IK CodoIzq_end
+    100046: IK ManoIZq
+    100048: IK ManoIZq_end
+    100050: IK Pierna Der T
+    100052: IK Pierna Der T_end
+    100054: IK Pierna Izq F
+    100056: IK Pierna Izq F_end
+    100058: IK Pierna Izq T
+    100060: IK Pierna Izq T_end
+    100062: IK PiernaDEr F
+    100064: IK PiernaDEr F_end
+    100066: Ik RodillaDerF
+    100068: Ik RodillaDerF_end
+    100070: Ik RodillaDerT
+    100072: Ik RodillaDerT_end
+    100074: IK RodillaIZqF
+    100076: IK RodillaIZqF_end
+    100078: IK RodillaIZqT
+    100080: IK RodillaIZqT_end
+    100082: IKManoDer
+    100084: IKManoDer_end
+    100086: ParaFDer
+    100088: ParaFDer_end
+    100090: ParaFIzq
+    100092: ParaFIzq_end
+    100094: ParaTDer
+    100096: ParaTDer_end
+    100098: ParaTIzq
+    100100: ParaTIzq_end
+    100102: PiernaFDer
+    100104: PiernaFIzq
+    100106: PiernatDer
+    100108: PiernaTIzq
+    100110: Torso
+    100112: Ojos
+    400000: AntebrazoDer
+    400002: AntebrazoIzq
+    400004: Base
+    400006: BrazoDer
+    400008: BrazoIzq
+    400010: Cabeza
+    400012: Cabeza_end
+    400014: Cadera
+    400016: //RootNode
+    400018: Enemigo
+    400020: EnemigoRig
+    400022: GarraInfDer
+    400024: GarraInfDer_end
+    400026: GarraInfIzq
+    400028: GarraInfIzq_end
+    400030: GarraSupDer
+    400032: GarraSupDer_end
+    400034: GarraSupIzq
+    400036: GarraSupIzq_end
+    400038: IK CodoDer
+    400040: IK CodoDer_end
+    400042: IK CodoIzq
+    400044: IK CodoIzq_end
+    400046: IK ManoIZq
+    400048: IK ManoIZq_end
+    400050: IK Pierna Der T
+    400052: IK Pierna Der T_end
+    400054: IK Pierna Izq F
+    400056: IK Pierna Izq F_end
+    400058: IK Pierna Izq T
+    400060: IK Pierna Izq T_end
+    400062: IK PiernaDEr F
+    400064: IK PiernaDEr F_end
+    400066: Ik RodillaDerF
+    400068: Ik RodillaDerF_end
+    400070: Ik RodillaDerT
+    400072: Ik RodillaDerT_end
+    400074: IK RodillaIZqF
+    400076: IK RodillaIZqF_end
+    400078: IK RodillaIZqT
+    400080: IK RodillaIZqT_end
+    400082: IKManoDer
+    400084: IKManoDer_end
+    400086: ParaFDer
+    400088: ParaFDer_end
+    400090: ParaFIzq
+    400092: ParaFIzq_end
+    400094: ParaTDer
+    400096: ParaTDer_end
+    400098: ParaTIzq
+    400100: ParaTIzq_end
+    400102: PiernaFDer
+    400104: PiernaFIzq
+    400106: PiernatDer
+    400108: PiernaTIzq
+    400110: Torso
+    400112: Ojos
+    2100000: Enemigo
+    2100002: Dorado
+    2100004: Ojos Enemigos
+    4300000: Enemigo
+    4300002: Ojos
+    7400000: Caminata
+    7400002: Ataque
+    7400004: Retroceso
+    9500000: //RootNode
+    13700000: Enemigo
+    13700002: Ojos
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Caminata
+      takeName: EnemigoRig|EnemigoRigAction.001
+      firstFrame: 0
+      lastFrame: 15
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Ataque
+      takeName: EnemigoRig|EnemigoRigAction.001
+      firstFrame: 19
+      lastFrame: 56
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Retroceso
+      takeName: EnemigoRig|EnemigoRigAction.001
+      firstFrame: 64
+      lastFrame: 92
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 5
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -4,5 +4,23 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Pantallas/Menu_Inicio.unity
+    guid: f35f1ab38896de24299b8e8efa42ea5e
+  - enabled: 1
+    path: Assets/Scenes/Pantallas/SeleccionNiveles.unity
+    guid: 9761b26ed72837c418622d29e19d2c9e
+  - enabled: 1
+    path: Assets/Scenes/Levels/Level1.unity
+    guid: ceee1f23b04b7b04eb69e18b255e8281
+  - enabled: 1
+    path: Assets/Scenes/Pantallas/Creditos.unity
+    guid: 3273f3ff6c42738458e8443a4a6d0802
+  - enabled: 1
+    path: Assets/Scenes/Pantallas/Ganar.unity
+    guid: ff1bdf6e0bee3bc41b09745d79496690
+  - enabled: 1
+    path: Assets/Scenes/Pantallas/Perder.unity
+    guid: 07fb38b1bd4d8b24eb85997989d28077
   m_configObjects: {}
